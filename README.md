@@ -33,5 +33,5 @@ To get started with this project, you'll need to have the following installed:
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/AnnapareddyVakula/docker-flask-app.git
-cd docker-flask-app
+git https://github.com/AnnapareddyVakula/Dockerization-of-a-Web-Application.git
+cd Dockerization-of-a-Web-Application
