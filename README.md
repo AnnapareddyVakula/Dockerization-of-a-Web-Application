@@ -9,7 +9,7 @@ This project is a simple web application built using Flask and Docker. It demons
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- 
+
 ## Features
 
 - A basic Flask web application.
